@@ -9,7 +9,6 @@ A machine learning project to predict whether water is safe to drink based on ch
 
 ## Files
 
-- `water_quality_analysis.ipynb`: Jupyter notebook with EDA and model training
 - `app.py`: Streamlit app for prediction
 - `water_quality_model.pkl`: Trained Random Forest model
 - `scaler.pkl`: StandardScaler for input scaling
