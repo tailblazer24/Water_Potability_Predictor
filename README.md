@@ -23,5 +23,12 @@ A machine learning project to predict whether water is safe to drink based on ch
 
 The Random Forest model achieved an ROC‑AUC of ~0.75. Feature importance shows that chloramines, pH, and solids are the most influential parameters.
 
-<img width="1322" height="860" alt="image" src="https://github.com/user-attachments/assets/7e065505-774c-4a9b-bc3b-255ef3530083" />
+<img width="1905" height="815" alt="image" src="https://github.com/user-attachments/assets/627a8dd3-3723-4985-9fde-c0cf36c501c6" />
+
+<img width="1856" height="818" alt="image" src="https://github.com/user-attachments/assets/34ac2a4d-4776-426a-b7cb-74f51e34c81e" />
+
+<img width="1901" height="872" alt="image" src="https://github.com/user-attachments/assets/29bd6e49-0b79-4f59-8614-1fbf08e9f7fd" />
+
+
+
 
